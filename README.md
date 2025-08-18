@@ -1,6 +1,6 @@
 ## Yo, I'm Terry, aka lemontea 👋
 
-I'm a web developer, enjoying building some cool stuffs with JS, and a cup of lemon tea.
+I'm a web developer, enjoying building some cool stuffs with JS/TS and a cup of lemon tea.
 
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lemontea.xyz/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/terry-cheng-789972274/)
