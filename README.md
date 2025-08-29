@@ -2,7 +2,7 @@
 
 I'm a web developer, enjoying building some cool stuffs.
 
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lemontea.xyz/)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge)](https://lemontea.xyz/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/terry-cheng-789972274/)
 
 ---
