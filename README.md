@@ -11,5 +11,3 @@ I'm a web developer, enjoying building some cool stuffs.
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonteaau&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
